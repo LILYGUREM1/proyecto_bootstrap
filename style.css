@@ -160,6 +160,21 @@ h1 {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+/*Articulos*/
+.articulos {
+  min-height: 500px;
+  padding: 30px;
+}
+
+.articulos .card {
+  width: 600px;
+  max-width: 600px;
+  margin: 30px;
+}
+
+.articulos .card-header {
+  font-weight: bold;
+}
 .overlay p {
   font-size: 25px;
   font-weight: bold;
